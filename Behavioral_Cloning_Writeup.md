@@ -115,10 +115,12 @@ The original NVIDIA architecture has been modified, the final architecture is pr
 
 * Then 70 pixels from the top and 25 pixels from the bottom of the images are cropped. The image was cropped from top because I did not wanted to distract the model with trees and sky and 25 pixels from the bottom so as to remove the dashboard that is coming in the images.
 
-Sample Input Image-
+Sample Input Image:
+
 <img src="./images/center_2016_12_01_13_32_53_357.jpg">   
 
-Cropped Image-
+Cropped Image:
+
 <img src="./images/center_2016_12_01_13_32_53_357_cropped.jpg">
 
 
